@@ -19,7 +19,7 @@ The goal of this project is to:
 
 ## **Dataset**
 The dataset consists of Uber customer reviews, preprocessed to remove unnecessary columns:
-- **Original Dataset**: [Uber Reviews on Kaggle](#) *(Add the dataset link if applicable)*
+- **Original Dataset**: [Uber Reviews on Kaggle](#) *(https://www.kaggle.com/datasets/kanchana1990/uber-customer-reviews-dataset-2024/data)*
 - **Processed Dataset**: `uber_reviews_with_predictions.csv` (includes sentiment analysis and predictions).
 
 ### **Columns in Processed Dataset**:
@@ -88,7 +88,7 @@ You can view the Tableau dashboard [here](#) *(Add Tableau Public link if applic
 ---
 
 ## **Project Files**
-- `uber_reviews_without_reviewid.csv`: Raw dataset (if allowed to share).
+- `uber_reviews_without_reviewid.csv`: Raw dataset .
 - `uber_reviews_with_predictions.csv`: Processed dataset.
 - `Uber_Reviews_Analysis.ipynb`: Jupyter Notebook containing the code.
 - `README.md`: Project documentation.
